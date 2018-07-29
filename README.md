@@ -1,2 +1,4 @@
 # xmltojson
-xmlファイルをjson形式に変更
+xmlファイルをJSON形式に変更
+
+Usage:  python xmltojson.py [FILE]
